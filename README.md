@@ -1,4 +1,4 @@
-# EV Market Data Analysis Project
+# Electric-Vehicle-Market-Data-Insights
 
 ## Overview
 This project focuses on analyzing the electric vehicle (EV) market to uncover insights into market trends, vehicle types, sales growth, and environmental impacts. The analysis provides a comprehensive understanding of the EV industry's performance and future opportunities.
